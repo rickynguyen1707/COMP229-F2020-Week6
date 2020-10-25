@@ -36,6 +36,7 @@
     "@types/passport-local": "^1.0.33",
     "@types/passport-local-mongoose": "^4.0.13"
   },
+  
   "description": "demo app for COMP229 Week 6",
   "main": "index.js",
   "repository": {
@@ -48,4 +49,5 @@
     "url": "https://github.com/rickynguyen1707/COMP229-F2020-Week6/issues"
   },
   "homepage": "https://github.com/rickynguyen1707/COMP229-F2020-Week6#readme"
+  
 }
