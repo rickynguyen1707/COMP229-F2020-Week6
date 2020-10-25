@@ -1,6 +1,6 @@
 {
-  "name": "comp229-f2020-week3",
-  "version": "0.0.1",
+  "name": "comp229-f2020-week6",
+  "version": "0.0.2",
   "private": true,
   "scripts": {
     "start": "node ./server.js"
@@ -35,5 +35,17 @@
     "@types/passport": "^1.0.4",
     "@types/passport-local": "^1.0.33",
     "@types/passport-local-mongoose": "^4.0.13"
-  }
+  },
+  "description": "demo app for COMP229 Week 6",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rickynguyen1707/COMP229-F2020-Week6.git"
+  },
+  "author": "Khang Nguyen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rickynguyen1707/COMP229-F2020-Week6/issues"
+  },
+  "homepage": "https://github.com/rickynguyen1707/COMP229-F2020-Week6#readme"
 }
